@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
